@@ -1,5 +1,5 @@
 .\" Manpage for _printf.
-.TH _printf 3 "23 November 2022" "1.0" "User commands for _printf"
+.TH _printf 3 "20 November 2023" "1.0" "User commands for _printf"
 .SH NAME
  _printf - format and print data.
 .SH SYNOPSIS
@@ -46,9 +46,7 @@ This are the characters that specifies the type of conversion to be applied. The
 .B %, %%
 .R If only the \fI%\fR character is written no argument is converted. The complete conversion specification is \fI%%\fR, that returns the actual sign if there in front.
 .PP
-.SH NOTES
-.R The \fB_printf()\fR is a project collaboration between \fBSamuel Adebayo\fR and \fBGerald Juwah\fR, Students studing Software Engineering at \fBALX School\fR.
-.SH BUGS
+.
 .R In process
 .PP
 .SH EXAMPLE
@@ -74,4 +72,4 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \fBBrian Kipkemboi\fR and \fBSharon Wawira\fR.
+Written by \fBtabitha.muhiukia\fR

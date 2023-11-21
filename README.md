@@ -174,5 +174,4 @@ Function files used to run various tests on the \_printf Function.
 
 ## Authors
 
-- `tabitha.muhiukia` tabitha.muhiukia@gmail.com
-- `
+- `tabitha.muhiukia@gmail.com`
